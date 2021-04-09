@@ -1,0 +1,18 @@
+{
+  "name": "chevron-template",
+  "version": "1.0.0",
+  "description": "Template for website with parallax chevrons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lessc styles.less > styles.css"
+  },
+  "author": "Becky Hirsch",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "less": "^4.1.1"
+  }
+}
